@@ -1,13 +1,18 @@
 #Travail de Contrôle de la Qualité
 
-[Les noms des polices (fontes de caractère) utilisés dans votre site]
+Les noms des polices (fontes de caractère) utilisés dans votre site
+
+___
 
 	[Open Sans]
 
-[Le code hexadécimal des couleurs utilisées dans votre site]
+Le code hexadécimal des couleurs utilisées dans votre site
+
+---
 
 #ff0000
 
+***
 
 [Service / Produit:]
 
